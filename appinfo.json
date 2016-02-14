@@ -1,0 +1,66 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "ayoub.briki@gmail.com",
+    "enableMultiJS": true,
+    "longName": "shitdone",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/RobotoCondensed-Bold.ttf",
+                "name": "ROBOTO_BOLD_48",
+                "targetPlatforms": [
+                    "aplite",
+                    "basalt",
+                    "chalk"
+                ],
+                "type": "font"
+            },
+            {
+                "file": "fonts/Roboto-Regular.ttf",
+                "name": "ROBOTO_32",
+                "targetPlatforms": [
+                    "aplite",
+                    "basalt",
+                    "chalk"
+                ],
+                "type": "font"
+            },
+            {
+                "file": "fonts/Roboto-Regular.ttf",
+                "name": "ROBOTO_30",
+                "targetPlatforms": [
+                    "aplite",
+                    "basalt",
+                    "chalk"
+                ],
+                "type": "font"
+            },
+            {
+                "file": "fonts/Roboto-Regular.ttf",
+                "name": "ROBOTO_18",
+                "targetPlatforms": [
+                    "aplite",
+                    "basalt",
+                    "chalk"
+                ],
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "shitdone",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "05c07d13-0714-42a4-81da-b24fc72d4759",
+    "versionLabel": "1.1",
+    "watchapp": {
+        "watchface": true
+    }
+}

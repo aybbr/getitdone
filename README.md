@@ -1,4 +1,4 @@
-A watchface sample using custom fonts
+A Pebble watchface sample using custom fonts
 
 Screenshots :
 
